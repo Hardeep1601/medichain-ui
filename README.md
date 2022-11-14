@@ -1,16 +1,8 @@
-# medichain
+# Medichain Mobile App Prototype
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+MediChain is a mobile-app designed to suit the needs of modern hospitals and their patient record system by securely handling the storage and migration of records within/between hospitals using blockchain technology, which in general, is an immutable transaction record that is maintained within a distributed network of peer nodes. These nodes keep a copy of the ledger by applying transactions that have been validated by a consensus process and are organized into blocks with a hash that links each block to the one before it. Made by Kamal Kumar Khatri and Hardeep Singh.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
