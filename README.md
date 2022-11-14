@@ -7,4 +7,4 @@ MediChain is a mobile-app designed to suit the needs of modern hospitals and the
 
 ## User Interface
 
-https://raw.githubusercontent.com/Hardeep1601/medichain-ui/main/MediChain%20Mobile%20App%20Images/Admin/Admin%20Dashboard.png
+![alt text](http://url/to/img.png](https://raw.githubusercontent.com/Hardeep1601/medichain-ui/main/MediChain%20Mobile%20App%20Images/Admin/Admin%20Dashboard.png)
